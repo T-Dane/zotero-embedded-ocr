@@ -9,3 +9,5 @@ pref("extensions.zotero.zoteroocr.maximumPagesAsHtml", "5");
 pref("extensions.zotero.zoteroocr.outputDPI", "300");
 pref("extensions.zotero.zoteroocr.PSMMode", "3");
 pref("extensions.zotero.zoteroocr.outputAsCopyAttachment", true);
+pref("extensions.zotero.zoteroocr.embeddedImagesOnly", true);
+pref("extensions.zotero.zoteroocr.pdfimagesPath", "");
